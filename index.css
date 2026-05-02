@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    background: linear-gradient(rgba(0,0,0,0.82), rgba(0,0,0,0.88)), 
+                url('https://i.pinimg.com/originals/e6/3c/cf/e63ccfc16384ef63e98b4d3c20b5f866.gif') center/cover fixed;
+    color: #ffffff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
